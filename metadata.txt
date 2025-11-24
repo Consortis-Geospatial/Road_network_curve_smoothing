@@ -1,0 +1,17 @@
+[general]
+name=Road Network Curve Smothing
+description=Detects and marks sharp turns with a seleceted boundary feature in a road network.
+about=???????????????????????????.
+version=1.0.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=Pappa Dimitra - Consortis Geospatial
+email=pappa@consortis.gr
+category=Analysis
+homepage=https://github.com/Consortis-Geospatial
+tracker=https://github.com/Consortis-Geospatial/???????????????/issues
+repository=https://github.com/Consortis-Geospatial/???????????????????
+experimental=False
+deprecated=False
+icon=curve.png
+tags=RoadNetwork, NetworkAnalysis, Topology, QualityControl, Angle
