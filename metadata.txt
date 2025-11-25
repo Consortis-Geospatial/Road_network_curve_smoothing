@@ -2,7 +2,7 @@
 name=Road Network Curve Smothing
 description=Detects and marks sharp turns with a seleceted boundary feature in a road network.
 about=Detects and marks curve points in a road network within a selected boundary polygon by calculating the deflection angle at each vertex from three consecutive points (previous–current–next).
-Vertices whose angle falls inside a user-defined range are treated as curve points, and all detected points inside the selected polygon are exported as a new point layer with attributes for ID and measured angle
+Vertices whose angle falls inside a user-defined range are treated as curve points, and all detected points inside the selected polygon are exported as a new point layer with attributes that contains ID and measured angle
 version=1.0.0
 qgisMinimumVersion=3.0
 qgisMaximumVersion=3.99
