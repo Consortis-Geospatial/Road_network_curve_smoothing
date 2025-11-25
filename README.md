@@ -1,9 +1,8 @@
-# R# Road Network Curve Smoothing (QGIS Plugin)
+#  Road Network Curve Smoothing (QGIS Plugin)
 
 ## Overview
 
 **Road Network Curve Smoothing** is a QGIS plugin that detects curve points (bends) on a road network within a selected polygon boundary, based on a user-defined angle range.
-The calculation it from the three a 
 It creates an output  temporary **point layer** of detected curve locations with their corresponding angles, which you can then inspect, symbolize, or use in further analysis.
 
 ---
