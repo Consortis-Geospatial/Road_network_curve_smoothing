@@ -50,9 +50,10 @@ No external Python packages are required beyond QGIS’ own libraries.
 ## Installation
 
 1. Clone or download this repository.
-''' bash 
+ ```bash
 git clone https://github.com/Consortis-Geospatial/Road_network_curve_smoothing.git 
-'''
+ ```
+
 2. Copy the plugin folder (the folder containing `__init__.py`, the main plugin file, `metadata.txt`, `curve.png`, etc.) into your QGIS plugin directory:
 
    - **Windows:**  
