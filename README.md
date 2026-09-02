@@ -1,4 +1,4 @@
-#  Road Network Curve Smoothing (QGIS Plugin)
+[#  Road Network Curve Smoothing (QGIS Plugin)
 
 ## Overview
 
@@ -167,11 +167,10 @@ The plugin uses the QGIS message bar (`iface.messageBar()`) to show feedback:
 This plugin is released under the GPL-3.0 license.
 
 ---
-
 ## Support and Contribution
-- **Homepage**: [https://github.com/Consortis-Geospatial],(https://github.com/Consortis-Geospatial)
-- **Author**: Dimitra Pappa -Consortis Geospatial
-- **email**: pappa@consortis.gr
-- **Repository**: [https://github.com/Consortis-Geospatial/Road_network_curve_smoothing],(https://github.com/Consortis-Geospatial/Road_network_curve_smoothing)
-- **Issues Tracker**: [https://github.com/Consortis-Geospatial/Road_network_curve_smoothing],(https://github.com/Consortis-Geospatial/Road_network_curve_smoothing)
 
+- **Homepage**: [https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing](https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing)
+- **Author**: Dimitra Pappa
+- **Email**: demetrapappa14@gmail.com
+- **Repository**: [https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing](https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing)
+- **Issues Tracker**: [https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing/issues](https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing/issues)
