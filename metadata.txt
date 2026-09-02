@@ -1,18 +1,17 @@
 [general]
-name=Road Network Curve Smothing
-description=Detects and marks sharp turns with a seleceted boundary feature in a road network.
-about=Detects and marks curve points in a road network within a selected boundary polygon by calculating the deflection angle at each vertex from three consecutive points (previous–current–next).
-Vertices whose angle falls inside a user-defined range are treated as curve points, and all detected points inside the selected polygon are exported as a new point layer with attributes that contains ID and measured angle
-version=1.0.0
+name=Road Network Curve Smoothing
+description=Detects and marks sharp turns within a selected boundary feature in a road network.
+about=Detects and marks curve points in a road network within a selected boundary polygon by calculating the deflection angle at each vertex from three consecutive points (previous-current-next). Vertices whose angle falls inside a user-defined range are treated as curve points, and all detected points inside the selected polygon are exported as a new point layer containing the feature ID and measured angle.
+version=1.0.1
 qgisMinimumVersion=3.0
 qgisMaximumVersion=3.99
-author=Pappa Dimitra - Consortis Geospatial
-email=pappa@consortis.gr
+author=Dimitra Pappa
+email=demetrapappa14@gmail.com
 category=Analysis
-homepage=https://github.com/Consortis-Geospatial
-tracker=https://github.com/Consortis-Geospatial/Road_network_curve_smoothing/issues
-repository=https://github.com/Consortis-Geospatial/Road_network_curve_smoothing
+homepage=https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing
+tracker=https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing/issues
+repository=https://github.com/demetrapappa14-geospatial/Road_network_curve_smoothing
 experimental=False
 deprecated=False
 icon=curve.png
-tags=RoadNetwork, NetworkAnalysis, Topology, QualityControl, Angle,Measurements,
+tags=RoadNetwork,NetworkAnalysis,Topology,QualityControl,Angle,Measurements
